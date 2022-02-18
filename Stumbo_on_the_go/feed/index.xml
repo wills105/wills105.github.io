@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stumbo On The Go</title>
+	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Feb 2022 16:35:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>Famous Monster Pizza</title>
+		<link>/famous-monster-pizza/</link>
+					<comments>/famous-monster-pizza/#respond</comments>
+		
+		<dc:creator><![CDATA[SOTG_admin]]></dc:creator>
+		<pubDate>Thu, 17 Feb 2022 16:22:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=56</guid>
+
+					<description><![CDATA[<p>October 27th, 2021, we made a special trip to Decatur, Indiana to try out Famous Monster Pizza and I have to say, it was definitely worth the 2 hour drive. The service was great and attentive, the food was fantastically</p>
+<p>The post <a rel="nofollow" href="/famous-monster-pizza/">Famous Monster Pizza</a> appeared first on <a rel="nofollow" href="/">Stumbo On The Go</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/famous-monster-pizza/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>D20 : A Bar With Characters</title>
+		<link>/d20-a-bar-with-characters/</link>
+					<comments>/d20-a-bar-with-characters/#respond</comments>
+		
+		<dc:creator><![CDATA[SOTG_admin]]></dc:creator>
+		<pubDate>Thu, 17 Feb 2022 16:04:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=30</guid>
+
+					<description><![CDATA[<p>If you haven&#8217;t been to D20, definitely give them a visit if you&#8217;re into craft beers, nerd stuff, and board games. You can talk people&#8217;s ears off about marvel, Harry Potter, DC, or even Supernatural. Nerd it up and give</p>
+<p>The post <a rel="nofollow" href="/d20-a-bar-with-characters/">D20 : A Bar With Characters</a> appeared first on <a rel="nofollow" href="/">Stumbo On The Go</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/d20-a-bar-with-characters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
